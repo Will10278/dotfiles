@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = Will10278@users.noreply.githb.com
+	name = william daly
